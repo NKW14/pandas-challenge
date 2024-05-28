@@ -1,0 +1,33 @@
+Noah Welgoss
+
+Rutgers Data Bootcamp 
+
+Written Analysis 
+
+
+District Summary: 
+
+The district summary analysis showed that after combining the schools data set and the student data set we have a total of 15 unique schools, 39,170 total students, $24,649,420 total budget, 78.9% average math score, 81.8% average reading score, 74.9% passing math percentage, 85.8% passing reading percentage and 65.1 overall passing percentage. 
+
+School Summary: 
+
+The school summary analysis shows the 15 schools broken down by school type, total student, total school budget, school budget per student, average math score, average reading score, percentaged passed for math, percentage passed for reading, overall percentage passed. The top 5 overall passing schools were Cabrera high school, Thomas high school, Griffin high school, Wilson high school, Pena high school. The bottom 5 overall passing schools were Rodrigues high school, Figueroa high school, Huang high school, Hernandez high school, and Johnson high school. 
+
+
+Spending Bins:
+
+The spending bins analysis grouped schools into four catergories based on the budget per student at each school. The four bins were less than $585, $585-630, $630-645, $645-680. Within the four buckets we meassured average math score, average reading score, percentage of students that passed math, percentage of student that passed reading and an overall student passing rate. 
+
+School Size: 
+
+The school size analysis grouped schools into three categories based on total number of students attending school. The categories were Small (<1000), Medium(1000-2000), and Large(2000-5000). Within the three categories we measured average math score, average reading score, percentage of students that passed math, percentage of student that passed reading and an overall student passing rate.
+
+School Type: 
+
+The school type analysis grouped schools by their type which was either charter or district. Within the two categories we meassured average math score, average reading score, percentage of students that passed math, percentage of student that passed reading and an overall student passing rate.
+
+Conclusions: 
+
+After looking at all the analysis, schools with lower budgets per student performed better than schools with a larger budget per student. Smaller and medium size schools performed better than larger sized school. Finally, charter schools performed better than district schools. 
+
+This would suggest that smaller schools that allow students to have smaller class sizes will have better performing students than larger schools that have a higher student to teacher ratio. The lower budget per student would suggest that student success is more about student to teacher ratio than resources given to each student. Charter school perform better as they have different standards than district school and prove to help their students reach these standards at a better rate than district schools do. 
